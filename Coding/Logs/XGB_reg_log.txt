@@ -1,0 +1,35 @@
+INFO:root:now: 2023-05-22 10:50:47.158480
+INFO:root:clean_datasets/class_clean_datasets\Climber_1_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 10:52:05.744632
+INFO:root:Best parameters: {'learning_rate': 0.03, 'max_depth': 4, 'n_estimators': 130}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 10:52:09.376890
+INFO:root:clean_datasets/class_clean_datasets\Climber_2_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 10:55:48.422603
+INFO:root:Best parameters: {'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 150}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 10:55:54.656389
+INFO:root:clean_datasets/class_clean_datasets\Climber_3_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 10:58:14.902817
+INFO:root:Best parameters: {'learning_rate': 0.06, 'max_depth': 2, 'n_estimators': 100}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 10:58:17.737448
+INFO:root:clean_datasets/class_clean_datasets\Climber_4_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 10:59:52.257944
+INFO:root:Best parameters: {'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 50}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 10:59:53.660495
+INFO:root:clean_datasets/class_clean_datasets\Climber_5_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 11:01:11.560292
+INFO:root:Best parameters: {'learning_rate': 0.06, 'max_depth': 2, 'n_estimators': 100}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 11:01:13.237884
+INFO:root:clean_datasets/class_clean_datasets\Climber_6_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 11:04:36.803904
+INFO:root:Best parameters: {'learning_rate': 0.06, 'max_depth': 2, 'n_estimators': 80}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 11:04:39.687060
+INFO:root:clean_datasets/class_clean_datasets\Climber_7_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 11:18:51.968932
+INFO:root:Best parameters: {'learning_rate': 0.06, 'max_depth': 2, 'n_estimators': 80}
+INFO:root:***********************next dataset****************************

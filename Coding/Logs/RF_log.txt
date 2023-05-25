@@ -1,0 +1,35 @@
+INFO:root:now: 2023-05-22 09:13:04.024317
+INFO:root:clean_datasets/class_clean_datasets\Climber_1_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 09:14:54.937650
+INFO:root:Best parameters: {'bootstrap': True, 'max_depth': 60, 'max_features': 7, 'min_samples_leaf': 2, 'min_samples_split': 16, 'n_estimators': 350}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 09:14:56.869401
+INFO:root:clean_datasets/class_clean_datasets\Climber_2_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 09:17:12.176430
+INFO:root:Best parameters: {'bootstrap': True, 'max_depth': 80, 'max_features': 8, 'min_samples_leaf': 1, 'min_samples_split': 16, 'n_estimators': 450}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 09:17:15.895519
+INFO:root:clean_datasets/class_clean_datasets\Climber_3_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 09:19:16.780237
+INFO:root:Best parameters: {'bootstrap': True, 'max_depth': 60, 'max_features': 8, 'min_samples_leaf': 1, 'min_samples_split': 16, 'n_estimators': 400}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 09:19:20.459819
+INFO:root:clean_datasets/class_clean_datasets\Climber_4_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 09:21:22.039797
+INFO:root:Best parameters: {'bootstrap': True, 'max_depth': 60, 'max_features': 7, 'min_samples_leaf': 1, 'min_samples_split': 16, 'n_estimators': 450}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 09:21:24.896997
+INFO:root:clean_datasets/class_clean_datasets\Climber_5_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 09:23:16.331557
+INFO:root:Best parameters: {'bootstrap': True, 'max_depth': 60, 'max_features': 7, 'min_samples_leaf': 1, 'min_samples_split': 16, 'n_estimators': 550}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 09:23:19.598001
+INFO:root:clean_datasets/class_clean_datasets\Climber_6_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 09:25:38.614049
+INFO:root:Best parameters: {'bootstrap': True, 'max_depth': 60, 'max_features': 7, 'min_samples_leaf': 2, 'min_samples_split': 14, 'n_estimators': 500}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 09:25:42.118405
+INFO:root:clean_datasets/class_clean_datasets\Climber_7_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 09:29:46.613985
+INFO:root:Best parameters: {'bootstrap': True, 'max_depth': 70, 'max_features': 7, 'min_samples_leaf': 2, 'min_samples_split': 16, 'n_estimators': 400}
+INFO:root:***********************next dataset****************************

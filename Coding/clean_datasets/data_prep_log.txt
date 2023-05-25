@@ -1,0 +1,99 @@
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  Initial shape: (1376, 22)
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  Shape, after dropping non related climbing styles: (1227, 22)
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  Shape, after dropping non related climbing methods: (844, 22)
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  Shape, Before dropping nans: (844, 12)
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  Shape, at the end of cleaning: (492, 13)
+Deleted ascent as no grade allocation possible: El Lance
+Deleted ascent as no grade allocation possible: Pesce D'aprile
+After grade adjustment: (490, 13)
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  count grading schemes: Counter({'French': 249, 'UIAA': 227, 'Ewbank': 14})
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  count countries: Counter({'Germany': 222, 'Spain': 70, 'Greece': 68, 'France': 44, 'Luxembourg': 37, 'Italy': 25, 'Australia': 14, 'Austria': 5, 'Switzerland': 5})
+../Data_collection/Coded_Data\Climber_1_Dataset.csv  Ascent Type value counts Flash        299
+Red point    191
+Name: Ascent Type, dtype: int64
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  Initial shape: (1568, 22)
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  Shape, after dropping non related climbing styles: (1562, 22)
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  Shape, after dropping non related climbing methods: (1562, 22)
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  Shape, Before dropping nans: (1562, 12)
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  Shape, at the end of cleaning: (1118, 13)
+Deleted ascent as no grade allocation possible: Schiavi della Pietra
+Deleted ascent as no grade allocation possible: La Chèvre de Mr. Seguin
+Deleted ascent as no grade allocation possible: I'd Even Grow a Moustache for You Ext.
+Deleted ascent as no grade allocation possible: 40:1 Ext
+Deleted ascent as no grade allocation possible: Malvasia
+Deleted ascent as no grade allocation possible: Batwoman
+Deleted ascent as no grade allocation possible: Kyparissi
+After grade adjustment: (1111, 13)
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  count grading schemes: Counter({'Polish': 734, 'French': 303, 'UIAA': 74})
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  count countries: Counter({'Poland': 734, 'Spain': 74, 'Italy': 69, 'Greece': 69, 'France': 66, 'Germany': 54, 'Slovenia': 25, 'Austria': 20})
+../Data_collection/Coded_Data\Climber_2_Dataset.csv  Ascent Type value counts Flash        765
+Red point    346
+Name: Ascent Type, dtype: int64
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  Initial shape: (1409, 22)
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  Shape, after dropping non related climbing styles: (1407, 22)
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  Shape, after dropping non related climbing methods: (1402, 22)
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  Shape, Before dropping nans: (1402, 12)
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  Shape, at the end of cleaning: (836, 13)
+After grade adjustment: (836, 13)
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  count grading schemes: Counter({'French': 834, 'UIAA': 2})
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  count countries: Counter({'Switzerland': 403, 'Italy': 218, 'France': 168, 'Spain': 27, 'Croatia': 10, 'Turkey': 7, 'Germany': 2, 'United Kingdom': 1})
+../Data_collection/Coded_Data\Climber_3_Dataset.csv  Ascent Type value counts Flash        507
+Red point    329
+Name: Ascent Type, dtype: int64
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  Initial shape: (1826, 22)
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  Shape, after dropping non related climbing styles: (1311, 22)
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  Shape, after dropping non related climbing methods: (990, 22)
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  Shape, Before dropping nans: (990, 12)
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  Shape, at the end of cleaning: (634, 13)
+After grade adjustment: (634, 13)
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  count grading schemes: Counter({'French': 600, 'US': 34})
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  count countries: Counter({'Norway': 440, 'Spain': 74, 'Thailand': 48, 'Greece': 26, 'South Korea': 24, 'Italy': 12, 'United States': 10})
+../Data_collection/Coded_Data\Climber_4_Dataset.csv  Ascent Type value counts Flash        422
+Red point    212
+Name: Ascent Type, dtype: int64
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  Initial shape: (1321, 22)
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  Shape, after dropping non related climbing styles: (969, 22)
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  Shape, after dropping non related climbing methods: (870, 22)
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  Shape, Before dropping nans: (870, 12)
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  Shape, at the end of cleaning: (536, 13)
+Deleted ascent as no grade allocation possible: La Chèvre de Mr. Seguin
+After grade adjustment: (535, 13)
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  count grading schemes: Counter({'Ewbank': 382, 'French': 150, 'US': 3})
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  count countries: Counter({'Australia': 382, 'France': 77, 'Greece': 69, 'Italy': 4, 'United States': 3})
+../Data_collection/Coded_Data\Climber_5_Dataset.csv  Ascent Type value counts Flash        335
+Red point    200
+Name: Ascent Type, dtype: int64
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  Initial shape: (2117, 22)
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  Shape, after dropping non related climbing styles: (2088, 22)
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  Shape, after dropping non related climbing methods: (2066, 22)
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  Shape, Before dropping nans: (2066, 12)
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  Shape, at the end of cleaning: (1326, 13)
+Deleted ascent as no grade allocation possible: Bille de Clown
+Deleted ascent as no grade allocation possible: Djin Fiz
+Deleted ascent as no grade allocation possible: Bille de Clown
+Deleted ascent as no grade allocation possible: Bille de Clown
+Deleted ascent as no grade allocation possible: Les Koalas
+Deleted ascent as no grade allocation possible: Les Koalas
+Deleted ascent as no grade allocation possible: Les Koalas
+Deleted ascent as no grade allocation possible: Les Koalas
+After grade adjustment: (1318, 13)
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  count grading schemes: Counter({'French': 1318})
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  count countries: Counter({'Italy': 687, 'France': 569, 'Switzerland': 51, 'Spain': 11})
+../Data_collection/Coded_Data\Climber_6_Dataset.csv  Ascent Type value counts Flash        921
+Red point    397
+Name: Ascent Type, dtype: int64
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  Initial shape: (6941, 22)
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  Shape, after dropping non related climbing styles: (5850, 22)
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  Shape, after dropping non related climbing methods: (3831, 22)
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  Shape, Before dropping nans: (3831, 12)
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  Shape, at the end of cleaning: (3135, 13)
+Deleted ascent as no grade allocation possible: 40:1 Ext
+Deleted ascent as no grade allocation possible: Doxa Ext
+Deleted ascent as no grade allocation possible: I'd Even Grow a Moustache for You Ext.
+Deleted ascent as no grade allocation possible: Kyparissi
+After grade adjustment: (3131, 13)
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  count grading schemes: Counter({'Ewbank': 1838, 'French': 1102, 'US': 165, 'UIAA': 26})
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  count countries: Counter({'Australia': 1838, 'Greece': 571, 'Thailand': 204, 'United States': 157, 'Spain': 150, 'Italy': 100, 'France': 47, 'Germany': 26, 'Vietnam': 21, 'China': 8, 'Hong Kong': 4, 'Switzerland': 3, 'Turkey': 2})
+../Data_collection/Coded_Data\Climber_7_Dataset.csv  Ascent Type value counts Flash        1833
+Red point    1298
+Name: Ascent Type, dtype: int64

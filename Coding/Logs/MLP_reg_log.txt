@@ -1,0 +1,35 @@
+INFO:root:now: 2023-05-22 11:58:15.624142
+INFO:root:clean_datasets/class_clean_datasets\Climber_1_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 12:00:22.965781
+INFO:root:Best parameters: {'activation': 'relu', 'alpha': 0.09, 'hidden_layer_sizes': (120,), 'learning_rate': 'constant', 'solver': 'adam'}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 12:00:31.194296
+INFO:root:clean_datasets/class_clean_datasets\Climber_2_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 12:07:01.046626
+INFO:root:Best parameters: {'activation': 'relu', 'alpha': 0.09, 'hidden_layer_sizes': (160,), 'learning_rate': 'constant', 'solver': 'adam'}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 12:07:13.106234
+INFO:root:clean_datasets/class_clean_datasets\Climber_3_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 12:10:05.805760
+INFO:root:Best parameters: {'activation': 'relu', 'alpha': 0.05, 'hidden_layer_sizes': (140,), 'learning_rate': 'constant', 'solver': 'adam'}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 12:10:15.729091
+INFO:root:clean_datasets/class_clean_datasets\Climber_4_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 12:13:01.857536
+INFO:root:Best parameters: {'activation': 'tanh', 'alpha': 0.07, 'hidden_layer_sizes': (200,), 'learning_rate': 'constant', 'solver': 'adam'}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 12:13:07.711610
+INFO:root:clean_datasets/class_clean_datasets\Climber_5_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 12:15:02.522203
+INFO:root:Best parameters: {'activation': 'tanh', 'alpha': 0.09, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'adam'}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 12:15:05.789293
+INFO:root:clean_datasets/class_clean_datasets\Climber_6_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 12:22:20.587075
+INFO:root:Best parameters: {'activation': 'relu', 'alpha': 0.09, 'hidden_layer_sizes': (160,), 'learning_rate': 'constant', 'solver': 'adam'}
+INFO:root:***********************next dataset****************************
+INFO:root:now: 2023-05-22 12:22:42.148320
+INFO:root:clean_datasets/class_clean_datasets\Climber_7_Dataset_cleaned.csv
+INFO:root:Hyperopptimization done: 2023-05-22 12:51:31.420013
+INFO:root:Best parameters: {'activation': 'tanh', 'alpha': 0.09, 'hidden_layer_sizes': (120,), 'learning_rate': 'constant', 'solver': 'adam'}
+INFO:root:***********************next dataset****************************
