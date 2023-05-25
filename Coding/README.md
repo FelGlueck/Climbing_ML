@@ -31,7 +31,7 @@ This can be done by adding the experiment to the python execution such as:
 When executed, the procedure will process all dataset within 'clean_datasets/class_clean_datasets'.
 It will perform a hyperparameter optimization for each dataset and then evaluate the model with the best found parameters.
 
-For each experiment a result file and a log file is created in the 'Logs' folder
+For each experiment a result file (.csv) and a log file (.txt) is created in the 'Logs' folder
 
 ### ML models
 
